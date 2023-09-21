@@ -26,3 +26,4 @@
 |# |Sessions |Keywords |
 |:--: |:--: |:--: |
 |1|Code Cells💡|[variable, assign](https://github.com/juHa1205/NLP_2023/blob/main/1_CodeCells_Basic.ipynb)|
+|1|Five Types of Data💡|[number,string(시퀀스),list,tuple,dictionary](https://github.com/juHa1205/NLP_2023/blob/main/2_FiveTypesofData.ipynb)|
