@@ -28,3 +28,5 @@
 |1|Code Cells💡|[variable, assign](https://github.com/juHa1205/NLP_2023/blob/main/1_CodeCells_Basic.ipynb)|
 |2|Five Types of Data💡|[number,string(시퀀스),list,tuple,dictionary](https://github.com/juHa1205/NLP_2023/blob/main/2_FiveTypesofData.ipynb)|
 |3|Indexing_Slicing💡|[number,string(시퀀스),list,tuple,dictionary](https://github.com/ms624atyale/NLP_2023/blob/main/3_Indexing_Slicing.ipynb)|
+|4_1|IfStatement💡|[number,string(시퀀스),list,tuple,dictionary](https://github.com/ms624atyale/NLP_2023/blob/main/4_1_IfStatement.ipynb)|
+
